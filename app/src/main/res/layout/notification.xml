@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#000000"
+    android:padding="20dp">
+
+  <TextView
+      android:id="@+id/alarm_title_text"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_above="@+id/current_temperature_field"
+      android:layout_marginBottom="15dp"
+      android:gravity="center"
+      android:padding="8dip"
+      android:text="... "
+      android:textColor="@color/white"
+      android:textSize="30sp"
+      android:textStyle="bold" />
+
+  <TextView
+      android:id="@+id/city_field"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentTop="true"
+      android:layout_centerHorizontal="true"
+      android:textColor="#FFFFFF"
+      android:textAppearance="?android:attr/textAppearanceLarge" />
+
+  <TextView
+      android:id="@+id/updated_field"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/city_field"
+      android:layout_centerHorizontal="true"
+      android:textColor="#FFFFFF"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:textSize="13sp" />
+  <TextView
+      android:id="@+id/selectCity"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Change City"
+      android:textStyle="italic"
+      android:textSize="11dp"
+      android:textColor="@color/accent"
+      android:layout_below="@+id/updated_field"
+      android:layout_centerHorizontal="true"/>
+
+  <TextView
+      android:id="@+id/weather_icon"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerVertical="true"
+      android:layout_centerHorizontal="true"
+      android:textColor="#FFFFFF"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:textSize="90sp"
+      />
+
+  <TextView
+      android:id="@+id/current_temperature_field"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentBottom="true"
+      android:layout_centerHorizontal="true"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:textColor="#FFFFFF"
+      android:textSize="50sp" />
+
+  <TextView
+      android:id="@+id/details_field"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/weather_icon"
+      android:layout_centerHorizontal="true"
+      android:textColor="#FFFFFF"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      />
+  <TextView
+      android:id="@+id/humidity_field"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/details_field"
+      android:layout_centerHorizontal="true"
+      android:textColor="#FFFFFF"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      />
+  <TextView
+      android:id="@+id/pressure_field"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/humidity_field"
+      android:layout_centerHorizontal="true"
+      android:textColor="#FFFFFF"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      />
+
+  <ProgressBar
+      android:id="@+id/loader"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerInParent="true"/>
+
+  <view
+      android:id="@+id/youtubeView"
+      class="com.google.android.youtube.player.YouTubePlayerView"
+      android:layout_width="296dp"
+      android:layout_height="126dp"
+      android:layout_marginTop="30dp"
+      android:layout_below="@+id/updated_field"
+      android:layout_centerHorizontal="true" />
+</RelativeLayout>

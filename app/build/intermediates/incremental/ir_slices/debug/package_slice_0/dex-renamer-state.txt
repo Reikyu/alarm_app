@@ -1,0 +1,4 @@
+#Mon Sep 16 18:50:16 KST 2019
+base.0=C\:\\Users\\wukj2\\AndroidStudioProjects\\alarm-me-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

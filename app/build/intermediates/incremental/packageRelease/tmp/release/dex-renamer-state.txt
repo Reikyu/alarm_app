@@ -1,0 +1,4 @@
+#Mon Sep 16 18:49:12 KST 2019
+base.0=C\:\\Users\\wukj2\\AndroidStudioProjects\\alarm-me-master1\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

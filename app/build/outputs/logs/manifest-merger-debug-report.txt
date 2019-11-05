@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\f8acb1ba9ee641283fea2b812859c686\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\9ac8b14b436917c940e928cfa15d0e1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\cb21e0575f094a668444f51231c4c4bd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\b92f02106e969328a1181c309f418909\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\2ce1439cc68c4b11d13c4446d3f2148a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\f16b873244859ab7caea1e3286afa18f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\0d536368f170b468405c340db17ed78f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\5fdd7c876d16c87622d9b8afe3b44062\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\1cac750179646b1e06f9b080fd37e005\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\95796b7bac89d9201e97d8417860fb93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\856690ad95ad52efcda9d69eb42aed14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\961f6c068f56596a416cbb9efdcdde46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\c154ea485d5a492540080af64eab884d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\30f6062d25ff60165db0362b46e38d25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\1271c977a1fdafb3dcb7ee2f63310616\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\33533304bae346ed8b3eec5480cdf4c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\6b7c02675dddb8a3d0b6053823e83856\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:3:3-32
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:5:3-31
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:4:3-27
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:6:3-41
+uses-sdk
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:3-42
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:3-42
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:3-42
+MERGED from [com.android.support:design:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\f8acb1ba9ee641283fea2b812859c686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\f8acb1ba9ee641283fea2b812859c686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\9ac8b14b436917c940e928cfa15d0e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\9ac8b14b436917c940e928cfa15d0e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\cb21e0575f094a668444f51231c4c4bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\cb21e0575f094a668444f51231c4c4bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\b92f02106e969328a1181c309f418909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\b92f02106e969328a1181c309f418909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\2ce1439cc68c4b11d13c4446d3f2148a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\2ce1439cc68c4b11d13c4446d3f2148a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\f16b873244859ab7caea1e3286afa18f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\f16b873244859ab7caea1e3286afa18f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\0d536368f170b468405c340db17ed78f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\0d536368f170b468405c340db17ed78f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\5fdd7c876d16c87622d9b8afe3b44062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\5fdd7c876d16c87622d9b8afe3b44062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\1cac750179646b1e06f9b080fd37e005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\1cac750179646b1e06f9b080fd37e005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\95796b7bac89d9201e97d8417860fb93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\95796b7bac89d9201e97d8417860fb93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\856690ad95ad52efcda9d69eb42aed14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\856690ad95ad52efcda9d69eb42aed14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\961f6c068f56596a416cbb9efdcdde46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\961f6c068f56596a416cbb9efdcdde46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\c154ea485d5a492540080af64eab884d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\c154ea485d5a492540080af64eab884d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\30f6062d25ff60165db0362b46e38d25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\30f6062d25ff60165db0362b46e38d25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\1271c977a1fdafb3dcb7ee2f63310616\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\1271c977a1fdafb3dcb7ee2f63310616\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\33533304bae346ed8b3eec5480cdf4c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\33533304bae346ed8b3eec5480cdf4c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\6b7c02675dddb8a3d0b6053823e83856\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\6b7c02675dddb8a3d0b6053823e83856\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:3-42
+INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:3-42
+	android:maxSdkVersion
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:13-39
+	android:targetSdkVersion
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:3-42
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:8:3-42
+		INJECTED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:10:3-64
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:10:20-61
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:11:3-64
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:11:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:12:3-77
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:12:20-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:13:3-77
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:13:20-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:14:3-78
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:14:20-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:16:3-17:64
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:17:5-61
+application
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:19:3-56:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\cb21e0575f094a668444f51231c4c4bd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\wukj2\.gradle\caches\transforms-2\files-2.1\cb21e0575f094a668444f51231c4c4bd\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:20:5-37
+	android:icon
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:21:5-41
+activity#com.taradov.alarmme.AlarmMe
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:23:5-31:16
+	android:label
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:25:7-39
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:24:7-30
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:27:7-30:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:29:9-69
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:29:19-66
+activity#com.taradov.alarmme.EditAlarm
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:33:5-35:36
+	android:label
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:35:7-33
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:34:7-32
+activity#com.taradov.alarmme.AlarmNotification
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:37:5-39:44
+	android:label
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:39:7-41
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:38:7-40
+activity#com.taradov.alarmme.Preferences
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:41:5-43:37
+	android:label
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:43:7-34
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:42:7-34
+receiver#com.taradov.alarmme.AlarmReceiver
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:45:7-47:35
+	android:process
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:47:7-32
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:46:7-36
+receiver#com.taradov.alarmme.BootCompletedReceiver
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:49:5-54:16
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:49:15-52
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:50:7-53:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:51:9-71
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:51:17-68
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:52:9-68
+	android:name
+		ADDED from C:\Users\wukj2\AndroidStudioProjects\alarm-me-master1\app\src\main\AndroidManifest.xml:52:19-65
